@@ -1,5 +1,5 @@
 # OOP-Project
-This is the OOP Final Project
+This Vaccine management system in my OOP final Project
 
 # Overview
 This Vaccine Management System is divided into Super-Admin, Admin and Citizens modules.
